@@ -19,4 +19,4 @@ Replace the XXXXXXXXXXX string with your Twilio account information, and enter y
 
 【﻿Ｎｏｔｅ】
 
-This bot was created for educational purposes only :). Feel free to fork the code and modify it to fit your needs. For example, if you do not want to use the Twilio API, you can try another service. ~ ELM
+This bot was created for educational purposes only :) , Feel free to fork the code and modify it to fit your needs. For example, if you do not want to use the Twilio API, you can try another service. ~ ELM
