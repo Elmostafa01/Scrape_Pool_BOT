@@ -1,15 +1,16 @@
-Scrape_Pool_BOT
+Ｓｃｒａｐｅ_Ｐｏｏｌ_ＢＯＴ
 
 This BOT sends you an SMS after logging in and scraping the '1337' page looking for a table.
 
 【﻿Ｉｎｓｔａｌｌａｔｉｏｎ】
 
 Create a Twilio account: Go to https://www.twilio.com/fr/sms and create an account.
-Install the necessary packages: Run the following commands to install Puppeteer and Twilio:
+Install the necessary packages: Run the following commands to install Puppeteer and Twilio.
 
-Copy code
+Copy code:
 
 npm install puppeteer
+
 npm install Twilio
 
 【﻿Ｃｏｎｆｉｇｕｒａｔｉｏｎ】
