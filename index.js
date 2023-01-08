@@ -59,9 +59,7 @@ async function checkPool () {
     browser.close();
   }, 5000);
 }
-
-  
-  checkPool()
+  setInterval(checkPool, 300000)
     .then(() => {
       console.log('you have been logged in successfully')
     })
