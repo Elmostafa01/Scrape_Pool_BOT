@@ -1,4 +1,4 @@
-**Scraping Pool BOT**
+***Scraping Pool BOT***
 
 Scraping Pool BOT is a Node.js-based script that logs in to a website and scrapes a specific page looking for a table. It sends an SMS to notify the user after successfully scraping the page.
 
