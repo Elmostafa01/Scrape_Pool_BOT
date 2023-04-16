@@ -9,8 +9,8 @@ To use this bot, follow these steps:
 1. Create a Twilio account: Go to https://www.twilio.com/fr/sms and create an account.
 2. Install the necessary packages: Run the following commands to install Puppeteer and Twilio.
 
-npm install puppeteer
-npm install twilio
+3. npm install puppeteer
+4. npm install twilio
 
 **Configuration:**
 
