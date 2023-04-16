@@ -1,22 +1,19 @@
-Ｓｃｒａｐｅ_Ｐｏｏｌ_ＢＯＴ
+**Scraping Pool BOT**
+Scraping Pool BOT is a Node.js-based script that logs in to a website and scrapes a specific page looking for a table. It sends an SMS to notify the user after successfully scraping the page.
 
-This BOT sends you an SMS after logging in and scraping the '1337' page looking for a table.
+**Installation**
+To use this bot, follow these steps:
 
-【﻿Ｉｎｓｔａｌｌａｔｉｏｎ】
-
-Create a Twilio account: Go to https://www.twilio.com/fr/sms and create an account.
-Install the necessary packages: Run the following commands to install Puppeteer and Twilio.
-
-Copy code:
+1. Create a Twilio account: Go to https://www.twilio.com/fr/sms and create an account.
+2. Install the necessary packages: Run the following commands to install Puppeteer and Twilio.
 
 npm install puppeteer
+npm install twilio
 
-npm install Twilio
+**Configuration**
+To configure the bot, replace the XXXXXXXXXXX string with your Twilio account information, and enter your email and password where indicated in the code.
 
-【﻿Ｃｏｎｆｉｇｕｒａｔｉｏｎ】
+**Note**
+This bot was created for educational purposes only. Feel free to fork the code and modify it to fit your needs. For example, if you do not want to use the Twilio API, you can try another service.
 
-Replace the XXXXXXXXXXX string with your Twilio account information, and enter your email and password where indicated in the code.
-
-【﻿Ｎｏｔｅ】
-
-This bot was created for educational purposes only :) , Feel free to fork the code and modify it to fit your needs. For example, if you do not want to use the Twilio API, you can try another service. ~ ELM
+~ ELM
